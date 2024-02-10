@@ -1,5 +1,5 @@
 # Excel_to_Database
-The program is designed to update Hamilton Sinkler's pricing information of all items directly into Eclipse's Database.
+The program is designed to update the supplier's pricing information of all items directly into Eclipse's Database.
 It uses the most current data from the Excel spreadsheet. For smooth operation, please use the following guidelines.
 
 ## Essential File Preparation
