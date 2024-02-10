@@ -1,0 +1,15 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore all .log files
+*.log
+
+# Ignore node_modules directory in a Node.js project
+node_modules/
+
+# Ignore the build output directory
+/build
+
+# Ignore personal secret files
+secrets.env
+
